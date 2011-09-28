@@ -27,6 +27,7 @@ Deps
 ----
 
 These classes depends on:
- * Google Gson (Json Library)
- * Google libphonenumber
- * Our own Http abstraction to be released in lda-commons soon.
+
+* Google Gson (Json Library)
+* Google libphonenumber
+* Our own Http abstraction to be released in lda-commons soon.
