@@ -26,4 +26,7 @@ The third argument is a result callback if you want to perform special things af
 Deps
 ----
 
-These classes depends on Google Gson (Json Library) and our own Http abstraction to be released in lda-commons soon.
+These classes depends on:
+ - Google Gson (Json Library)
+ - Google libphonenumber
+ - Our own Http abstraction to be released in lda-commons soon.
