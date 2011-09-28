@@ -1,4 +1,4 @@
-package com.letsdoapps.commons.telephonynexmo;
+package com.letsdoapps.commons.telephony.nexmo;
 
 import java.util.HashMap;
 import java.util.LinkedList;
